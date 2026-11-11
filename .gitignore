@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ScamLens additional security rules
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
